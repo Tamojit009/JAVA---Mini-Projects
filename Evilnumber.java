@@ -12,7 +12,7 @@ class Evilnumber
      }
     boolean calculate ()
     {
-        while ( num > 0 ) // Loop used to find out the remainder and qoutient.
+        while ( num > 0 ) // Loop used to find out the remainder and quotient.
         {
             if ( num % 2 == 1) // Checks if the remainder is 1.
             {
